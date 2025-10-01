@@ -10,16 +10,20 @@ h1 {
 
 .about {
     background: #00b3d1;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .skills {
     background: red;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .projects {
     background: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .content {
     background: turquoise;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
